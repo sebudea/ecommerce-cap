@@ -1,6 +1,6 @@
 # ecommerce_cap
 
-# Manual de Instalación para FrontEnd
+# Manual de Instalación para el FrontEnd del Trabajo Final
 Este manual te guiará a través de los pasos necesarios para instalar y ejecutar el frontend de nuestro proyecto utilizando Flutter.
 
 ## Requisitos Previos
