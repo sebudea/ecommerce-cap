@@ -56,14 +56,12 @@ class _HomeState extends State<Home> {
             children: [
               botonNav(false, 0, "Home"),
               botonNav(false, 1, "Productos"),
-              botonNav(false, 0, "Categorias"),
             ],
           ),
           // Botones Nav Icono
           Row(
             mainAxisAlignment: MainAxisAlignment.start,
             children: [
-              botonIconNav(context, 0, Icons.search),
               botonIconNav(context, 0, Icons.shopping_cart),
               botonIconNav(context, 4, Icons.person),
             ],
